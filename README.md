@@ -1,5 +1,7 @@
 # CODSOFT
  All internship tasks assigned by CodSoft
+ 
+ 
  📊 Student Grade Calculator
 
 A simple and efficient Java console application that calculates student grades based on marks obtained in multiple subjects.
