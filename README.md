@@ -2,7 +2,7 @@
  All internship tasks assigned by CodSoft
  
  
- 📊 Student Grade Calculator
+ 📊 Student Grade Calculator - CodeSoft Task 1
 
 A simple and efficient Java console application that calculates student grades based on marks obtained in multiple subjects.
 
@@ -22,7 +22,7 @@ Any text editor or IDE
 
 
 
-# Currency Converter - CodeSoft Task 4
+# Currency Converter - CodeSoft Task 2
 
 A simple Java console application that converts between different currencies with real-time exchange rate simulation.
 
