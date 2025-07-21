@@ -47,24 +47,20 @@ Built for CodeSoft Internship Program
 
 
 
-Student Management System - CodeSoft Task 3
+# 🎓 Student Management System
 
-Welcome to the Student Management System Java mini-project!
+A simple yet powerful **Java console application** for managing student records efficiently. This project demonstrates core programming concepts including object-oriented design, file I/O operations, and user input validation.
 
-This console-based application allows you to efficiently manage student records, including adding, removing, editing, searching, and displaying students directly from a user-friendly text interface. Each student record stores essential details such as name, roll number, and grade. The system ensures robust input validation, preventing duplicate entries and empty fields.
+## ✨ Features
+- **Add Students**: Create new student records with name, roll number, and grade
+- **Remove Students**: Delete student records by roll number
+- **Edit Records**: Update existing student information
+- **Search Functionality**: Find students quickly by roll number
+- **Display All**: View complete list of enrolled students
+- **Data Persistence**: Automatic save/load from CSV file
+- **Input Validation**: Prevents duplicate entries and ensures data integrity
 
-Key features:
+## 🚀 Quick Start
+Simply compile and run the `Main.java` file. No external dependencies required! Perfect for beginners learning Java fundamentals and file handling concepts.
 
-Add new student records with validation
-
-Remove student records by roll number
-
-Edit existing student details (name and/or grade)
-
-Search students by roll number
-
-Display all students neatly in a list
-
-All data is automatically saved and loaded from a local CSV file
-
-The project is fully written in Java, requires no external libraries, and is ideal for beginners learning object-oriented programming and file handling. It can be compiled and run on any system with Java installed. This project is developed as part of a CodSoft assignment and is freely available for further customization.
+**Built with Java | CodSoft Internship Project**
