@@ -19,3 +19,26 @@ Prerequisites
 
 Java Development Kit (JDK) 8 or higher
 Any text editor or IDE
+
+
+
+# Currency Converter - CodeSoft Task 4
+
+A simple Java console application that converts between different currencies with real-time exchange rate simulation.
+
+## Features
+- Interactive currency selection (10 popular currencies: USD, EUR, GBP, JPY, AUD, CAD, CHF, CNY, INR, KRW)
+- Amount input validation and error handling
+- Accurate currency conversion with realistic exchange rates
+- User-friendly console interface with formatted output
+
+## How to Run
+```bash
+javac CurrencyConverter.java
+java CurrencyConverter
+```
+
+## Requirements
+- Java 8 or higher
+
+Built for CodeSoft Internship Program
