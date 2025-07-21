@@ -47,7 +47,8 @@ Built for CodeSoft Internship Program
 
 
 
-Student Management System
+Student Management System - CodeSoft Task 3
+
 Welcome to the Student Management System Java mini-project!
 
 This console-based application allows you to efficiently manage student records, including adding, removing, editing, searching, and displaying students directly from a user-friendly text interface. Each student record stores essential details such as name, roll number, and grade. The system ensures robust input validation, preventing duplicate entries and empty fields.
